@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EFL2">
+        <item>Accrington Stanley</item>
+        <item>Barnet</item>
+        <item>Cambridge United</item>
+        <item>Carlisle United</item>
+        <item>Cheltenham Town</item>
+        <item>Chesterfield</item>
+        <item>Colchester United</item>
+        <item>Coventry City</item>
+        <item>Crawley Town</item>
+        <item>Crewe Alexandra</item>
+        <item>Exeter City</item>
+        <item>Forest Green Rovers</item>
+        <item>Grimsby Town</item>
+        <item>Lincoln City</item>
+        <item>Luton Town</item>
+        <item>Mansfield Town</item>
+        <item>Morcambe</item>
+        <item>Newport County</item>
+        <item>Notts County</item>
+        <item>Port Vale</item>
+        <item>Stevenage</item>
+        <item>Swindon Town</item>
+        <item>Wycombe Wanderers</item>
+        <item>Yeovil Town</item>
+    </string-array>
+</resources>

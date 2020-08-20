@@ -1,0 +1,924 @@
+{
+  "Arsenal": {
+    "club name": "Arsenal",
+    "Stadium ": "Emirates",
+    "Stadium Location": "N5 1BU",
+    "Stadium capacity": "56987",
+    "Manager": "Arsene Wenger",
+    "History": "Founded 1886",
+    "Latitude": 51.554888 ,
+    "Longitude":-0.108438
+  },
+  "Bournemouth": {
+    "club name": "Bournemouth",
+    "Stadium ": "Vitality Stadium",
+    "Stadium Location": "BH7 7AF",
+    "Stadium capacity": "11360",
+    "Manager": "Eddie Howe",
+    "History": "Founded 1810",
+    "Latitude": 50.735231  ,
+    "Longitude":-1.838279
+
+  },
+  "Brighton": {
+    "club name": "Brighton",
+    "Stadium ": "American Express Stadium",
+    "Stadium Location": "BN1 9BL",
+    "Stadium capacity": "30750",
+    "Manager": "Chris Hughton",
+    "History": "Founded 1904",
+    "Latitude": 50.861565 ,
+    "Longitude":-0.083716
+  },
+  "Burnley": {
+    "club name": "Burnley",
+    "Stadium ": "Turf Moor",
+    "Stadium Location": "B10 4BX",
+    "Stadium capacity": "21944",
+    "Manager": "Sean Dyche",
+    "History": "Founded 1882",
+    "Latitude":53.789024,
+    "Longitude":-2.230174
+  },
+  "Chelsea": {
+    "club name": "Chelsea",
+    "Stadium ": "Stamford Bridge",
+    "Stadium Location": "SW6 1HS",
+    "Stadium capacity": "41631",
+    "Manager": "Antonio Conte",
+    "History": "Founded 1905",
+    "Latitude":51.481663,
+    "Longitude":-0.190956
+  },
+  "Crystal Palace": {
+    "club name": "Crystal Palace",
+    "Stadium ": "Selhurst Park",
+    "Stadium Location": "SE25 6PU",
+    "Stadium capacity": "26309",
+    "Manager": "Roy Hodgson",
+    "History": "Founded 1905",
+    "Latitude":51.398253,
+    "Longitude":-0.085487
+  },
+  "Everton": {
+    "club name": "Everton",
+    "Stadium ": "Goodison Park",
+    "Stadium Location": "L4 4EL",
+    "Stadium capacity": "39572",
+    "Manager": "Sam Allardyce",
+    "History": " Founded 1878",
+    "Latitude":53.438787,
+    "Longitude":-2.966319
+  },
+  "Huddersfield": {
+    "club name": "Huddersfield",
+    "Stadium ": "John Smith's Stadium",
+    "Stadium Location": "HD1 6PX",
+    "Stadium capacity": "24500",
+    "Manager": "David Wagner",
+    "History": "Founded 1908",
+    "Latitude":53.654282,
+    "Longitude":-1.768252
+  },
+  "Leicester City": {
+    "club name": "Leicester City",
+    "Stadium ": "King Power Stadium",
+    "Stadium Location": "LE2 7FL",
+    "Stadium capacity": "32312",
+    "Manager": "Claude Puel",
+    "History": "Founded 1884",
+    "Latitude":52.620366,
+    "Longitude":-1.142189
+  },
+  "Liverpool": {
+    "club name": "Liverpool",
+    "Stadium ": "Anfield",
+    "Stadium Location": "L4 0TH",
+    "Stadium capacity": "54074",
+    "Manager": "Jurgen Klopp",
+    "History": "Founded 1892",
+    "Latitude":53.430829,
+    "Longitude":-2.960830
+  },
+  "Manchester City": {
+    "club name": "Manchester City",
+    "Stadium ": "Etihad Stadium",
+    "Stadium Location": "M11 3FF",
+    "Stadium capacity": "55097",
+    "Manager": "Pep Guardiola",
+    "History": "Founded 1880",
+    "Latitude":53.483138,
+    "Longitude":-2.200395
+  },
+  "Manchester United": {
+    "club name": "Manchester United",
+    "Stadium ": "Old Trafford",
+    "Stadium Location": "M16 0RA",
+    "Stadium capacity": "74994",
+    "Manager": "Jose Mourinho",
+    "History": "Founded 1878",
+    "Latitude":53.463059,
+    "Longitude":-2.291340
+  },
+  "Newcastle United": {
+    "club name": "Newcastle United",
+    "Stadium ": "St James Park",
+    "Stadium Location": "NE1 4ST",
+    "Stadium capacity": "52354",
+    "Manager": "Rafael Benitez",
+    "History": "Founded 1892",
+    "Latitude":54.975556,
+    "Longitude":-1.621667
+  },
+  "Southampton": {
+    "club name": "Southampton",
+    "Stadium ": "St Mary's Stadium",
+    "Stadium Location": "SO14 5FP",
+    "Stadium capacity": "32505",
+    "Manager": "Mauricio Pellegrino",
+    "History": "Founded 1885",
+    "Latitude":50.905822,
+    "Longitude":-1.390954
+  },
+  "Stoke City": {
+    "club name": "Stoke City",
+    "Stadium ": "bet365 Stadium",
+    "Stadium Location": "ST4 4EG",
+    "Stadium capacity": "30089",
+    "Manager": "Paul Lambert",
+    "History": "Founded 1863",
+    "Latitude":52.988105,
+    "Longitude":-2.176430
+  },
+  "Swansea City": {
+    "club name": "Swansea City",
+    "Stadium ": "Liberty Stadium",
+    "Stadium Location": "SA1 2FA",
+    "Stadium capacity": "21088",
+    "Manager": "Carlos Carvalhal",
+    "History": "Founded 1912",
+    "Latitude":51.642750,
+    "Longitude":-3.934586
+  },
+  "Tottemham Hotspurs": {
+    "club name": "Tottemham Hotspurs",
+    "Stadium ": "Wembley Stadium",
+    "Stadium Location": "N17 0AP",
+    "Stadium capacity": "61559",
+    "Manager": "Mauricio Pochettino",
+    "History": "Founded 1912",
+    "Latitude":51.604286,
+    "Longitude":-0.066381
+  },
+  "Watford": {
+    "club name": "Watford",
+    "Stadium ": "Vicarage Road",
+    "Stadium Location": "WD18 0ER",
+    "Stadium capacity": "21577",
+    "Manager": "Javi Gracia",
+    "History": "Founded 1881",
+    "Latitude":51.649906,
+    "Longitude":-0.401525
+  },
+  "West Brom": {
+    "club name": "West Brom",
+    "Stadium ": "The HawThorns",
+    "Stadium Location": "B71 4LF",
+    "Stadium capacity": "26688",
+    "Manager": "Alan Pardew",
+    "History": "Founded 1878",
+    "Latitude":52.509038,
+    "Longitude":-1.963938
+  },
+  "West Ham": {
+    "club name": "West Ham",
+    "Stadium ": "London Stadium",
+    "Stadium Location": "E20 2ST",
+    "Stadium capacity": "57000",
+    "Manager": "David Moyes",
+    "History": "Founded 1895",
+    "Latitude":51.538710,
+    "Longitude":-0.016604
+  },
+  "Aston Villa": {
+    "club name": "Aston Villa",
+    "Stadium ": "Villa Park",
+    "Stadium Location": "B6 6HE",
+    "Stadium capacity": "42682",
+    "Manager": "Steve Bruce",
+    "History": "Founded 1897",
+    "Latitude": 52.509112,
+    "Longitude": -1.884783
+  },
+  "Barnsley": {
+    "club name": "Barnsley",
+    "Stadium ": "Oakwell",
+    "Stadium Location": "S71 1ET",
+    "Stadium capacity": "23287",
+    "Manager": "José Morais",
+    "History": "Founded 1888",
+    "Latitude": 53.551742,
+    "Longitude": -1.468189
+  },
+  "Birmingham City": {
+    "club name": "Birmingham City",
+    "Stadium ": "St Andrew's",
+    "Stadium Location": "B9 4RL",
+    "Stadium capacity": "29409",
+    "Manager": "Gary Monk",
+    "History": "Founded 1906",
+    "Latitude": 52.475721,
+    "Longitude": -1.868061
+  },
+  "Bolton Wanderers": {
+    "club name": "Bolton Wanderers",
+    "Stadium ": "Macron Stadium",
+    "Stadium Location": "BL6 6JW",
+    "Stadium capacity": "28723",
+    "Manager": "Phil Parkinson",
+    "History": "Founded 1997",
+    "Latitude": 53.581372,
+    "Longitude": -2.536975
+  },
+  "Brentford": {
+    "club name": "Brentford",
+    "Stadium ": "Griffin Park",
+    "Stadium Location": "TW8 0NT",
+    "Stadium capacity": "12763",
+    "Manager": "Dean Smith",
+    "History": "Founded 1904",
+    "Latitude": 51.488177,
+    "Longitude": -0.302524
+  },
+  "Bristol City": {
+    "club name": "Bristol City",
+    "Stadium ": "Ashton Gate Stadium",
+    "Stadium Location": "BS3 2EJ",
+    "Stadium capacity": "27000",
+    "Manager": "Lee Johnson",
+    "History": "Founded 1887",
+    "Latitude": 51.440117,
+    "Longitude": -2.620302
+  },
+  "Burton Albion": {
+    "club name": "Burton Albion",
+    "Stadium ": "Pirelli Stadium",
+    "Stadium Location": "DE13 0AR",
+    "Stadium capacity": "6912",
+    "Manager": "Nigel Clough",
+    "History": "Founded 2005",
+    "Latitude": 52.821820,
+    "Longitude": -1.626786
+  },
+  "Cardiff City": {
+    "club name": "Cardiff City",
+    "Stadium ": "Cardiff City Stadium",
+    "Stadium Location": "CF11 8AZ",
+    "Stadium capacity": "33280",
+    "Manager": "Neil Warnock",
+    "History": "Founded 2009",
+    "Latitude": 51.472823,
+    "Longitude": -3.203012
+  },
+  "Derby County": {
+    "club name": "Derby County",
+    "Stadium ": "Pride Park Stadium",
+    "Stadium Location": "DE24 8XL",
+    "Stadium capacity": "33597",
+    "Manager": "Gary Rowett",
+    "History": "Founded 1997",
+    "Latitude": 52.914816,
+    "Longitude": -1.447277
+  },
+  "Fulham": {
+    "club name": "Fulham",
+    "Stadium ": "Craven Cottage",
+    "Stadium Location": "SW6 6HH",
+    "Stadium capacity": "25700",
+    "Manager": "Slavisa Jokanovic",
+    "History": "Founded 1896",
+    "Latitude": 51.474895,
+    "Longitude": -0.221780
+  },
+  "Hull City": {
+    "club name": "Hull City",
+    "Stadium ": "KCOM Stadium",
+    "Stadium Location": "HU3 6HU",
+    "Stadium capacity": "25586",
+    "Manager": "Nigel Adkins",
+    "History": "Founded 2002",
+    "Latitude": 53.746093,
+    "Longitude": -0.368297
+  },
+  "Ipswich Town": {
+    "club name": "Ipswitch Town",
+    "Stadium ": "Portman Road",
+    "Stadium Location": "IP1 2DA",
+    "Stadium capacity": "30311",
+    "Manager": "Mick McCarthy",
+    "History": "Founded 1884",
+    "Latitude": 52.054976,
+    "Longitude": 1.145071
+  },
+  "Leeds United": {
+    "club name": "Leeds United",
+    "Stadium ": "Elland Road",
+    "Stadium Location": "LS11 0ES",
+    "Stadium capacity": "37890",
+    "Manager": "Paul Heckingbottom",
+    "History": "Founded 1919",
+    "Latitude": 53.777816,
+    "Longitude": -1.572145
+  },
+  "Middlesbrough": {
+    "club name": "Middlesbrough",
+    "Stadium ": "Riverside Stadium",
+    "Stadium Location": "TS3 6RS",
+    "Stadium capacity": "34742",
+    "Manager": "Tony Pulis",
+    "History": "Founded 1995",
+    "Latitude": 54.577970,
+    "Longitude": -1.218174
+  },
+  "Millwall": {
+    "club name": "Millwall",
+    "Stadium ": "The Den",
+    "Stadium Location": "SE16 3LN",
+    "Stadium capacity": "20146",
+    "Manager": "Neil Harris",
+    "History": "Founded 1993",
+    "Latitude": 51.485942,
+    "Longitude": -0.050900
+  },
+  "Norwich City": {
+    "club name": "Norwich City",
+    "Stadium ": "Carrow Road",
+    "Stadium Location": "NR1 1JE",
+    "Stadium capacity": "27244",
+    "Manager": "Daniel Farke",
+    "History": "Founded 1935",
+    "Latitude": 52.622114,
+    "Longitude": 1.309153
+  },
+  "Nottingham Forest": {
+    "club name": "Nottingham Forest",
+    "Stadium ": "City Ground",
+    "Stadium Location": "NG2 5FJ",
+    "Stadium capacity": "30445",
+    "Manager": "Aitor Karanka",
+    "History": "Founded 1898",
+    "Latitude": 52.939653,
+    "Longitude": -1.132895
+  },
+  "Preston North End": {
+    "club name": "Preston North End",
+    "Stadium ": "Deepdale",
+    "Stadium Location": "PR1 6RU",
+    "Stadium capacity": "23404",
+    "Manager": "Alex Neil",
+    "History": "Founded 1875",
+    "Latitude": 53.772226,
+    "Longitude": -2.688432
+  },
+  "Queens Park Rangers": {
+    "club name": "Queen Park Rangers",
+    "Stadium ": "Loftus Road",
+    "Stadium Location": "W12 7PJ",
+    "Stadium capacity": "18439",
+    "Manager": "Ian Holloway",
+    "History": "Founded 1904",
+    "Latitude": 51.509277,
+    "Longitude": -0.232112
+  },
+  "Reading": {
+    "club name": "Reading",
+    "Stadium ": "Madejski Stadium",
+    "Stadium Location": "RG2 0FL",
+    "Stadium capacity": "24161",
+    "Manager": "Jaap Stam",
+    "History": "Founded 1998",
+    "Latitude": 51.422393,
+    "Longitude": -0.982633
+  },
+  "Sheffield United": {
+    "club name": "Shefield United",
+    "Stadium ": "Bramall Lane",
+    "Stadium Location": "S2 4SU",
+    "Stadium capacity": "32702",
+    "Manager": "Chris Wilder",
+    "History": "Founded 1855",
+    "Latitude": 53.370376,
+    "Longitude": -1.471504
+  },
+  "Sheffield Wednesday": {
+    "club name": "Sheffield Wednesday",
+    "Stadium ": "Hillsborough Stadium",
+    "Stadium Location": "S6 1SW",
+    "Stadium capacity": "39732",
+    "Manager": "Jos Luhukay",
+    "History": "Founded 1899",
+    "Latitude": 53.411432,
+    "Longitude": -1.500663
+  },
+  "Sunderland": {
+    "club name": "Sunderland",
+    "Stadium ": "Staidum of Light",
+    "Stadium Location": "SR5 1SU",
+    "Stadium capacity": "49000",
+    "Manager": "Chris Coleman",
+    "History": "Founded 1997",
+    "Latitude": 54.914561,
+    "Longitude": -1.388371
+  },
+  "Wolverhampton Wanderers": {
+    "club name": "Wolverhampton Wanderers",
+    "Stadium ": "Molineux Stadium",
+    "Stadium Location": "WV1 4QR",
+    "Stadium capacity": "31700",
+    "Manager": "Nuno Espirito Santo",
+    "History": "Founded 1889",
+    "Latitude": 52.590236,
+    "Longitude": -2.130429
+  },
+  "AFC Wimbledon": {
+    "club name": "AFC Wimbledon",
+    "Stadium ": "Kingsmeadow",
+    "Stadium Location": "KT1 3PB",
+    "Stadium capacity": "2,265",
+    "Manager": "Neal Ardley",
+    "History": "Founded 1989",
+    "Latitude": 51.405185,
+    "Longitude": -0.281795
+  },
+  "Blackburn Rovers": {
+    "club name": "Blackburn Rovers",
+    "Stadium ": "Ewood Park",
+    "Stadium Location": "BB2 4JF",
+    "Stadium capacity": "31,367",
+    "Manager": "Tony Mowbray",
+    "History": "Founded 1875",
+    "Latitude": 53.728594,
+    "Longitude": -2.489196
+  },
+  "Blackpool": {
+    "club name": "Blackpool",
+    "Stadium ": "Bloomfield Road",
+    "Stadium Location": "FY1 6JJ",
+    "Stadium capacity": "17,338",
+    "Manager": "Gary Bowyer",
+    "History": "Founded 1887",
+    "Latitude": 53.804871,
+    "Longitude": -3.048141
+  },
+  "Bradford City": {
+    "club name": "Bradford City",
+    "Stadium ": "Valley Park",
+    "Stadium Location": "BD8 7DZ",
+    "Stadium capacity": "25,136",
+    "Manager": "Simon Gra,yson",
+    "History": "1886",
+    "Latitude": 53.803770,
+    "Longitude": -1.759405
+  },
+  "Bristol Rovers": {
+    "club name": "Bristol Rovers",
+    "Stadium ": "Memorial Stadium",
+    "Stadium Location": "BS7 0BF",
+    "Stadium capacity": "12,300",
+    "Manager": "Darrell Clarke",
+    "History": "1921",
+    "Latitude": 51.486228,
+    "Longitude": -2.583141
+  },
+  "Bury": {
+    "club name": "Bury",
+    "Stadium ": "Gigg Lane",
+    "Stadium Location": "BL9 9HR",
+    "Stadium capacity": "11,840",
+    "Manager": "Ryan Lowe",
+    "History": "1885",
+    "Latitude": 53.580574,
+    "Longitude": -2.295072
+  },
+  "Charlton Athletic": {
+    "club name": "Charlton Athletic",
+    "Stadium ": "The Valley",
+    "Stadium Location": "SE7 8BL",
+    "Stadium capacity": "27,111",
+    "Manager": "Karl Robinson",
+    "History": "1919",
+    "Latitude": 51.486486,
+    "Longitude": 0.036543
+  },
+  "Doncaster Rovers": {
+    "club name": "Doncaster Rovers",
+    "Stadium ": "Keepmoat Stadium",
+    "Stadium Location": "DN4 5JW",
+    "Stadium capacity": "15,231",
+    "Manager": "Darren Ferguson",
+    "History": "2006",
+    "Latitude": 53.509906,
+    "Longitude": -1.113707
+  },
+  "Fleetwood Town": {
+    "club name": "Fleetwood Town",
+    "Stadium ": "Highbury Stadium",
+    "Stadium Location": "FY7 6SP",
+    "Stadium capacity": "5,327",
+    "Manager": "John Sheridan",
+    "History": "1939",
+    "Latitude": 53.916652,
+    "Longitude": -3.024850
+  },
+  "Gillingham": {
+    "club name": "Gillingham",
+    "Stadium ": "Priestfield Stadium",
+    "Stadium Location": "ME7 4DD",
+    "Stadium capacity": "11,582",
+    "Manager": "Steve Lovell",
+    "History": "1893",
+    "Latitude": 51.384162,
+    "Longitude": 0.560913
+  },
+  "MK Dons": {
+    "club name": "MK Dons",
+    "Stadium ": "Stadium mk",
+    "Stadium Location": "MK1 1ST",
+    "Stadium capacity": "30,500",
+    "Manager": "Dan Micciche",
+    "History": "2007",
+    "Latitude": 52.009806,
+    "longitude": -0.734590
+  },
+  "Northampton Town": {
+    "club name": "Northampton Town",
+    "Stadium ": "Sixfields Stadium",
+    "Stadium Location": "NN5 5QA",
+    "Stadium capacity": "7,798",
+    "Manager": "Jimmy Floyd Hasselbaink",
+    "History": "1994",
+    "Latitude": 52.235016,
+    "Longitude": -0.933727
+  },
+  "Oldham Athletic": {
+    "club name": "Oldham Athletic",
+    "Stadium ": "Boundary Park",
+    "Stadium Location": "OL1 2PA",
+    "Stadium capacity": "13,512",
+    "Manager": "Richie Wellens",
+    "History": "1904",
+    "Latitude": 53.555147,
+    "Longitude": -2.128456
+  },
+  "Oxford United": {
+    "club name": "Oxford United",
+    "Stadium ": "Kassam Stadium",
+    "Stadium Location": "OX4 4XP",
+    "Stadium capacity": "12,500",
+    "Manager": "Derek Fazackerley",
+    "History": "2001",
+    "Latitude": 51.716489,
+    "Longitude": -1.207861
+  },
+  "Peterborough United": {
+    "club name": "Peterborough United",
+    "Stadium ": "ABAX Stadium",
+    "Stadium Location": "PE2 8AL",
+    "Stadium capacity": "15,314",
+    "Manager": "Steve Evans",
+    "History": "1913",
+    "Latitude": 52.564638,
+    "Longitude": -0.240021
+  },
+  "Plymouth Argyle": {
+    "club name": "Plymouth Argyle",
+    "Stadium ": "Home Park",
+    "Stadium Location": "PL2 3DQ",
+    "Stadium capacity": "16,388",
+    "Manager": "Derek Adams",
+    "History": "1893",
+    "Latitude": 50.388252,
+    "Longitude": -4.151038
+  },
+  "Portsmouth": {
+    "club name": "Portsmouth",
+    "Stadium ": "Fratton Park",
+    "Stadium Location": "PO4 8RA",
+    "Stadium capacity": "21,100",
+    "Manager": "Kenny Jackett",
+    "History": "1898",
+    "Latitude": 50.796337,
+    "Longitude": -1.063790
+  },
+  "Rochdale": {
+    "club name": "Rochdale",
+    "Stadium ": "Spotland Stadium",
+    "Stadium Location": "OL11 5DS",
+    "Stadium capacity": "10,000",
+    "Manager": "Keith Hill",
+    "History": "1920",
+    "Latitude": 53.621498,
+    "Longitude": -2.181230
+  },
+  "Rotherham United": {
+    "club name": "Rotherham United",
+    "Stadium ": "New York Stadium",
+    "Stadium Location": "S60 1FJ",
+    "Stadium capacity": "12,021",
+    "Manager": "Paul Warne",
+    "History": "2012",
+    "Latitude": 53.427064,
+    "Longitude": -1.363000
+  },
+  "Scunthorpe United": {
+    "club name": "Scunthorpe United",
+    "Stadium ": "Glanford Park",
+    "Stadium Location": "DN15 8TD",
+    "Stadium capacity": "9,088",
+    "Manager": "Graham Alexander",
+    "History": "1988",
+    "Latitude": 53.586585,
+    "Longitude": -0.696117
+  },
+  "Shrewsbury Town": {
+    "club name": "Shrewsbury Town",
+    "Stadium ": "New Meadow",
+    "Stadium Location": "SY2 6ST",
+    "Stadium capacity": "10,210",
+    "Manager": "Paul Hurst",
+    "History": "2007",
+    "Latitude": 52.688591,
+    "Longitude": -2.749294
+  },
+  "Southend United": {
+    "club name": "Southend United",
+    "Stadium ": "Roots Hall",
+    "Stadium Location": "SS2 6NQ",
+    "Stadium capacity": "12,392",
+    "Manager": "Chris Powell",
+    "History": "1955",
+    "Latitude": 51.548851,
+    "Longitude": 0.701552
+  },
+  "Walsall": {
+    "club name": "Walsall",
+    "Stadium ": "Bescot Stadium",
+    "Stadium Location": "WS1 4SA",
+    "Stadium capacity": "11,300",
+    "Manager": "Jon Whitney",
+    "History": "1990",
+    "Latitude": 52.565480,
+    "Longitude": -1.990879
+  },
+  "Wigan Athletic": {
+    "club name": "Wigan Athletic",
+    "Stadium ": "DW Stadium",
+    "Stadium Location": "WN5 0UH",
+    "Stadium capacity": "25,133",
+    "Manager": "Paul Cook",
+    "History": "1999",
+    "Latitude": 53.547463,
+    "Longitude": -2.653755
+  },
+  "Accrington Stanley" : {
+    "club name" : "Accrington Stanley",
+    "Stadium " : "Wham Stadium",
+    "Stadium Location" : "BB5 5BX",
+    "Stadium capacity" : "5,057",
+    "Manager" : "John Marsden ",
+    "History" : "Founded 1968",
+    "Latitude": 53.764968 ,
+    "Longitude": -2.371180
+  },
+  "Barnet" : {
+    "club name" : "Barnet",
+    "Stadium " : "The Hive Stadium",
+    "Stadium Location" : "HA8 6AG",
+    "Stadium capacity" : "6,205",
+    "Manager" : "Graham Westley",
+    "History" : "Founded 1888",
+    "Latitude": 51.602786,
+    "Longitude": -0.291803
+  },
+  "Cambridge United" : {
+    "club name" : "Cambridge United",
+    "Stadium " : "Abbey Stadium",
+    "Stadium Location" : "CB5 8LN",
+    "Stadium capacity" : "8,127",
+    "Manager" : "Joe Dunne",
+    "History" : "Founded 1912",
+    "Latitude": 52.211998 ,
+    "Longitude": 0.154946
+  },
+  "Carlisle United" : {
+    "club name" : "Carlisle United",
+    "Stadium " : "Brunton Park",
+    "Stadium Location" : "CA1 1LL",
+    "Stadium capacity" : "18,202",
+    "Manager" : "Keuth Curle",
+    "History" : "Founded 1904",
+    "Latitude": 54.895816 ,
+    "Longitude": -2.914475
+  },
+  "Cheltenham Town" : {
+    "club name" : "Cheltenham Town",
+    "Stadium " : "Whanddon Road",
+    "Stadium Location" : "GL52 5NA",
+    "Stadium capacity" : "7,066",
+    "Manager" : "Gary Johnson",
+    "History" : "Founded 1887",
+    "Latitude": 51.906168 ,
+    "Longitude": -2.060215
+  },
+  "Chesterfield" : {
+    "club name" : "Crystal Palace",
+    "Stadium " : "Proact Stadium",
+    "Stadium Location" : "S41 8NZ",
+    "Stadium capacity" : "10,305",
+    "Manager" : "Jack Lester",
+    "History" : "Founded 1919",
+    "Latitude": 53.253532 ,
+    "Longitude": -1.426764
+  },
+  "Colchester United" : {
+    "club name" : "Colchester United",
+    "Stadium " : "Colchester Community Stadium",
+    "Stadium Location" : "CO4 5UP",
+    "Stadium capacity" : "10,105",
+    "Manager" : "John McGreal",
+    "History" : " Founded 1937",
+    "Latitude": 51.923322 ,
+    "Longitude": 0.896991
+  },
+  "Coventry City" : {
+    "club name" : "Coventry City",
+    "Stadium " : "Ricoh Arena",
+    "Stadium Location" : "CV6 6HH",
+    "Stadium capacity" : "32,609",
+    "Manager" : "Mark Robins",
+    "History" : "Founded 1883",
+    "Latitude": 52.448350 ,
+    "Longitude": -1.496635
+  },
+  "Crawley Town" : {
+    "club name" : "Crawley Town",
+    "Stadium " : "Broadfield Stadium",
+    "Stadium Location" : "RH11 9RX",
+    "Stadium capacity" : "6,134",
+    "Manager" : "Harry Kewell",
+    "History" : "Founded 1896",
+    "Latitude": 51.099568,
+    "Longitude": -0.195395
+  },
+  "Crewe Alexandra" : {
+    "club name" : "Crewe Alexandra",
+    "Stadium " : "Gresty Road",
+    "Stadium Location" : "CW2 6EB",
+    "Stadium capacity" : "10,153",
+    "Manager" : "David Artell",
+    "History" : "Founded 1877",
+    "Latitude": 53.087931,
+    "Longitude": -2.436102
+  },
+  "Exeter City" : {
+    "club name" : "Exeter City",
+    "Stadium " : "St James Park",
+    "Stadium Location" : "M11 3FF",
+    "Stadium capacity" : "8,541",
+    "Manager" : "Paul Tisdale",
+    "History" : "Founded 1901",
+    "Latitude": 50.730586 ,
+    "Longitude": -3.520152
+  },
+  "Forest Green Rovers" : {
+    "club name" : "Forest Green Rovers",
+    "Stadium " : "The New Lawn",
+    "Stadium Location" : "GL6 0ET",
+    "Stadium capacity" : "5,141",
+    "Manager" : "Mark Cooper",
+    "History" : "Founded 1889",
+    "Latitude": 51.698743 ,
+    "Longitude": -2.237778
+  },
+  "Grimsby Town" : {
+    "club name" : "Grimsby Town",
+    "Stadium " : "Blundell Park",
+    "Stadium Location" : "DN35 7PY",
+    "Stadium capacity" : "9,027",
+    "Manager" : "	Michael Jolley",
+    "History" : "Founded 1878",
+    "Latitude": 53.570161 ,
+    "Longitude": -0.046434
+  },
+  "Lincoln City" : {
+    "club name" : "Lincoln City",
+    "Stadium " : "Sincil Bank",
+    "Stadium Location" : "LN5 8LD",
+    "Stadium capacity" : "10,120",
+    "Manager" : "	Danny Cowley",
+    "History" : "Founded 1884",
+    "Latitude": 53.218176 ,
+    "Longitude": -0.540056
+  },
+  "Luton Town" : {
+    "club name" : "Luton Town",
+    "Stadium " : "Kenilworth Road",
+    "Stadium Location" : "LU4 8AW",
+    "Stadium capacity" : "10,356",
+    "Manager" : "Nathan Jones",
+    "History" : "Founded 1885",
+    "Latitude": 51.883943 ,
+    "Longitude": -0.432406
+  },
+  "Mansfield Town" : {
+    "club name" : "Mansfield Town",
+    "Stadium " : "Field Mill",
+    "Stadium Location" : "NG18 5DA",
+    "Stadium capacity" : "9,186",
+    "Manager" : "Carlos Carvalhal",
+    "History" : "Founded 1912",
+    "Latitude": 53.137436 ,
+    "Longitude": -1.200135
+  },
+  "Morcambe" : {
+    "club name" : "Morecambe",
+    "Stadium " : "Globe Arena",
+    "Stadium Location" : "LA4 4TB",
+    "Stadium capacity" : "6,476",
+    "Manager" : "Jim Bentley",
+    "History" : "Founded 1920",
+    "Latitude": 54.061066,
+    "Longitude" : -2.867251
+  },
+  "Newport County" : {
+    "club name" : "Newport County",
+    "Stadium " : "Rodney Parade",
+    "Stadium Location" : "NP19 0UU",
+    "Stadium capacity" : "7,850",
+    "Manager" : "Mike Flynn",
+    "History" : "Founded 1912",
+    "Latitude": 51.588323 ,
+    "Longitude" : -2.987852
+  },
+  "Notts County" : {
+    "club name" : "Notts County",
+    "Stadium " : "Meadow Lane",
+    "Stadium Location" : "NG2 3HJ",
+    "Stadium capacity" : "19,841",
+    "Manager" : "Kevin Nolan",
+    "History" : "Founded 1862",
+    "Latitude": 52.942243,
+    "Longitude": -1.136105
+  },
+  "Port Vale" : {
+    "club name" : "Port Vale",
+    "Stadium " : "Vale Park",
+    "Stadium Location" : "ST6 1AW",
+    "Stadium capacity" : "19,052",
+    "Manager" : "Neil Aspin",
+    "History" : "Founded 1876",
+    "Latitude": 53.050390 ,
+    "Longitude": -2.191697
+  },
+  "Stevenage": {
+    "club name": "Stevenage",
+    "Stadium ": "Broadhall",
+    "Stadium Location": "SG2 8RH",
+    "Stadium capacity": "6,722",
+    "Manager": "Vacant",
+    "History": "Founded 1976",
+    "Latitude": 51.890160,
+    "Longitude": -0.194407
+  },
+  "Swindon Town": {
+    "club name": "Swindon Town",
+    "Stadium ": "County Ground",
+    "Stadium Location": "SN1 2ED",
+    "Stadium capacity": "15,728",
+    "Manager": "Phil Brown",
+    "History": "Founded 1879",
+    "Latitude": 51.564785 ,
+    "Longitude": -1.769934
+  },
+  "Wycombe Wanderers": {
+    "club name": "Wycombe Wanderers",
+    "Stadium ": "Adams Park",
+    "Stadium Location": "HP12 4HJ",
+    "Stadium capacity": "9,617",
+    "Manager": "Gareth Ainsworth",
+    "History": "Founded 1887",
+    "Latitude": 51.631049 ,
+    "Longitude": -0.796011
+  },
+  "Yeovil Town": {
+    "club name": "Yeovil Town",
+    "Stadium ": "Huish Park",
+    "Stadium Location": "BA22 8YF",
+    "Stadium capacity": "9,565",
+    "Manager": "Darren Way",
+    "History": "Founded 1895",
+    "Latitude": 50.950221,
+    "Longitude": -2.674717
+
+  }
+}

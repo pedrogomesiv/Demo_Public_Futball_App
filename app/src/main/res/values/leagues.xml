@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="football_leagues">
+        <item>English Premier League</item>
+        <item>English Football League Championship</item>
+        <item>English Football League One</item>
+        <item>English Football League Two</item>
+    </string-array>
+</resources>

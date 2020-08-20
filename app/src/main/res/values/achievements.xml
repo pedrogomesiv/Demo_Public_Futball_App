@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="achievements">
+        <item>Over 50%</item>
+        <item>Over 60%</item>
+        <item>Over 70%</item>
+        <item>Over 80%</item>
+        <item>Over 90%</item>
+        <item>Done the lot!</item>
+        <item>The Wanderer</item>
+        <item>The Wild Rover</item>
+        <item>Cymru am byth</item>
+        <item>Far and Wide</item>
+        <item>Master and Apprentice</item>
+        <item>Oop North</item>
+        <item>Perfect Premier</item>
+        <item>Championship Champ</item>
+        <item>League 1 Done</item>
+        <item>League 2 Triumphed</item>
+        <item>Little and large</item>
+        <item>Cockney Conqueror</item>
+        <item>All sit down</item>
+        <item>Claret and Blue</item>
+        <item>City Slicker</item>
+        <item>Park Ranger</item>
+        <item>The Champions</item>
+        <item>Le Champions</item>
+        <item>Respect your Elders</item>
+        <item>Neighbours</item>
+        <item>Longest and Shortest</item>
+        <item>What even is an Albion?!</item>
+        <item>Im an athlete!</item>
+        <item>The Compass</item>
+    </string-array>
+</resources>

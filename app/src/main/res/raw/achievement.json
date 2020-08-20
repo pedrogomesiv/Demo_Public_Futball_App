@@ -1,0 +1,298 @@
+{
+  "Over 50%": {
+    "Description": "Visited over 50% of UK grounds",
+    "Requirement": "",
+    "Share": "I have visited 50% of all of the Premier League and Football League clubs in the UK"
+  },
+  "Over 60%": {
+    "Description": "Visited over 60% of UK grounds",
+    "Requirement": "",
+    "Share": "I have visited 60% of all of the Premier League and Football League clubs in the UK"
+  },
+  "Over 70%": {
+    "Description": "Visited over 70% of UK grounds",
+    "Requirement": "",
+    "Share": "I have visited 70% of all of the Premier League and Football League clubs in the UK"
+  },
+  "Over 80%": {
+    "Description": "Visited over 80% of UK grounds",
+    "Requirement": "",
+    "Share": "I have visited 80% of all of the Premier League and Football League clubs in the UK"
+  },
+  "Over 90%": {
+    "Description": "Visited over 90% of UK grounds",
+    "Requirement": "",
+    "Share": "I have visited 90% of all of the Premier League and Football League clubs in the UK"
+  },
+  "Done the lot!": {
+    "Description": "Visited over 100% of UK grounds",
+    "Requirement": "",
+    "Share": "I have visited every Premier League and Football League club in the UK"
+  },
+  "The Wanderer": {
+    "Description": "Visited all of the Wanderers",
+    "Requirement": [
+      "Wolverhampton Wanderers",
+      "Bolton Wanderers",
+      "Wycombe Wanderers"
+    ],
+    "Share": "I have visited all of the Wanderers football stadiums in the UK"
+  },
+  "The Wild Rover": {
+    "Description": "Visited all of the Rovers",
+    "Requirement": [
+      "Blackburn Rovers",
+      "Doncaster Rovers",
+      "Bristol Rovers",
+      "Forest Green Rovers"
+    ],
+    "Share": "I have visited all of the Rovers football stadiums in the UK"
+  },
+  "Cymru am byth": {
+    "Description": "Visited all the Welsh grounds",
+    "Requirement": [
+      "Cardiff City",
+      "Newport County",
+      "Swansea City"
+    ],
+    "Share": "I have visited all of the Premier League and Football League clubs in Wales"
+  },
+  "Far and Wide": {
+    "Description": "Visited the NESW grounds",
+    "Requirement": [
+      "Plymouth Argyle",
+      "Newcastle United",
+      "Norwich City"
+    ]
+  },
+  "Master and Apprentice": {
+    "Description": "Visit the oldest and newest grounds",
+    "Requirement": [
+      "Sheffield United",
+      "West Ham United"
+    ],
+    "Share": "I have visited the oldest and newest football grounds in the UK"
+  },
+  "Oop North": {
+    "Description": "Visit all grounds up north",
+    "Requirement": [
+      "Carlisle United",
+      "Newcastle United",
+      "Sunderland",
+      "Middlesbrough",
+      "Morcambe",
+      "Fleetwood Town",
+      "Blackpool",
+      "Preston North End",
+      "Blackburn Rovers",
+      "Accrington Stanley",
+      "Burnley",
+      "Bradford City",
+      "Leeds United",
+      "Hull City",
+      "Grimsby Town",
+      "Scunthorpe United",
+      "Doncaster Rovers",
+      "Sheffield Wednesday",
+      "Sheffield United",
+      "Rotherham United",
+      "Huddersfield Town",
+      "Barnsley",
+      "Manchester United",
+      "Manchester City",
+      "Liverpool",
+      "Everton",
+      "Oldham Athletic",
+      "Bury",
+      "Rochdale",
+      "Wigan Athletic",
+      "Bolton Wanderers"
+    ],
+    "Share": "I have visited all of the northern football stadiums"
+  },
+  "Perfect Premier": {
+    "Description": "Visit all PL grounds",
+    "Requirement": "",
+    "Share": "I have visited all of the Premier League football stadiums in the UK"
+  },
+  "Championship Champ": {
+    "Description": "Visit all Championship grounds",
+    "Requirement": "",
+    "Share": "I have visited all of the Championship League football stadiums in the UK"
+  },
+  "League 1 Done": {
+    "Description": "Visit all league 1 grounds",
+    "Requirement": "",
+    "Share": "I have visited all of the League One football stadiums in the UK"
+  },
+  "League 2 Triumphed": {
+    "Description": "Visit all league 2 grounds",
+    "Requirement": "",
+    "Share": "I have visited all of the League Two football stadiums in the UK"
+  },
+  "Little and large": {
+    "Description": "Visit the biggest and smallest ground",
+    "Requirement": [
+      "AFC Wimbledon",
+      "Tottenham Hotspur"
+    ],
+    "Share": "I have visited the largest and smallest football grounds in the UK"
+  },
+  "Cockney Conqueror": {
+    "Description": "Visit all grounds inside the m25",
+    "Requirement": [
+      "Barnet",
+      "Millwall",
+      "Charlton Athletic",
+      "AFC Wimbledon",
+      "Queens Park Rangers",
+      "Fulham",
+      "Brentford",
+      "West Ham United",
+      "Tottenham Hotspur",
+      "Crystal Palace",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "Share": "I have visited all football grounds inside the m25!"
+  },
+  "All sit down": {
+    "Description": "Visit St James' Park and St James Park",
+    "Requirement": [
+      "Exeter City",
+      "Newcastle United"
+    ],
+    "Share": "I have visited St James' Park and St James Park"
+  },
+  "Claret and Blue": {
+    "Description": "Visit all Claret and Blue grounds",
+    "Requirement": [
+      "Aston Villa",
+      "Scunthorpe United",
+      "West Ham United",
+      "Burnley"
+    ],
+    "Share": "I have visited all Clarent and Blue football grounds in the UK"
+  },
+  "City Slicker": {
+    "Description": "Visit all the City club grounds",
+    "Requirement": [
+      "Manchester City",
+      "Leicester City",
+      "Swansea City",
+      "Stoke City",
+      "Cardiff City",
+      "Norwich City",
+      "Hull City",
+      "Birmingham City",
+      "Bradford City",
+      "Coventry City",
+      "Exeter City",
+      "Lincoln City"
+    ],
+    "Share": "I have visited all of the football grounds in the UK with 'City' in the name"
+  },
+  "Park Ranger": {
+    "Description": "Visit all the grounds named park",
+    "Requirement": [
+      "Crystal palace",
+      "Everton",
+      "Newcastle United",
+      "Aston Villa",
+      "Brentford",
+      "Derby County",
+      "Blackburn Rovers",
+      "Oldham Athletic",
+      "Plymouth Argyle",
+      "Portsmouth",
+      "Scunthorpe United",
+      "Carlisle United",
+      "Exeter City",
+      "Grimsby Town",
+      "Port Vale",
+      "Wycombe Wanderers",
+      "Yeovil Town"
+    ],
+    "Share": "I have visited all of the football named park grounds in the UK"
+  },
+  "The Champions": {
+    "Description": "Visit all grounds of PL champions",
+    "Requirement": [
+      "Manchester United",
+      "Arsenal",
+      "Chelsea",
+      "Manchester City",
+      "Blackburn Rovers",
+      "Leicester City"
+    ],
+    "Share": "I have visited all football grounds of the Premier League champions"
+  },
+  "Le Champions": {
+    "Description": "Visit all grounds of European champions",
+    "Requirement": [
+      "Manchester United",
+      "Liverpool",
+      "Chelsea",
+      "Nottingham Forest",
+      "Aston Villa"
+    ],
+    "Share": "I have visited all football grounds of the European champions"
+  },
+  "Respect your Elders": {
+    "Description": "Visit the 5 oldest grounds",
+    "Requirement": [
+      "Sheffield United",
+      "Mansfield Town",
+      "Preston North End",
+      "Chelsea",
+      "Newcastle United"
+    ],
+    "Share": "I have visited athe five oldest football grounds in the UK"
+  },
+  "Neighbours": {
+    "Description": "Visit the two closest grounds in the UK",
+    "Requirement": [
+      "Notts County",
+      "Nottingham Forest"
+    ],
+    "Share": "I have visited the two closest football grounds"
+  },
+  "Longest and Shortest": {
+    "Description": "Visit the grounds of the teams with the longest and shortest names",
+    "Requirement": [
+      "Wolverhampton Wanderers",
+      "Bury"
+    ],
+    "Share": "I have visited the football grounds of the teams with the longest and shortest name"
+  },
+  "What even is an Albion?!": {
+    "Description": "Visit all of the Albions",
+    "Requirement": [
+      "Brighton and Hove Albion",
+      "West Bromwich Albion",
+      "Burton Albion"
+    ],
+    "Share": "I have visited all of the Albion football grounds"
+  },
+  "Im an athlete!": {
+    "Description": "Visit all of the Athletics",
+    "Requirement": [
+      "Oldham Athletic",
+      "Wigan Athletic",
+      "Charlton Athletic"
+    ],
+    "Share": "I have visited all of the Athletic football grounds"
+  },
+  "The Compass": {
+    "Description": "Visit all teams with North, East, South or West in their names",
+    "Requirement": [
+      "Northampton Town",
+      "Preston North End",
+      "West Ham United",
+      "West Bromwich Albion",
+      "Southampton",
+      "Southend United"
+    ],
+    "Share": "I have visited all of the football grounds with a compass direction in their name"
+  }
+}

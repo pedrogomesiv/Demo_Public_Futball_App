@@ -1,0 +1,167 @@
+<resources>
+    <array name="PremierLeagueTeams">
+        <item name="ArsnealClubName">Arsenal</item>
+        <item name="BournemouthClubName">Bournemouth</item>
+        <item name="BrightonClubName">Brighton</item>
+        <item name="BurnleyClubName">Burnley</item>
+        <item name="ChelseaClubName">Chelsea</item>
+        <item name="CrystalPalaceClubName">Crystal Palace</item>
+        <item name="EvertonClubName">Everton</item>
+        <item name="HuddersfieldTownClubName">Huddersfield</item>
+        <item name="LeicesterCityClubName">Leicester City</item>
+        <item name="LiverpoolClubName">Liverpool</item>
+        <item name="ManchesterCityClubName">Manchester City</item>
+        <item name="ManchesterUnitedClubName">Manchester United</item>
+        <item name="NewcastleUnitedClubName">Newcastle United</item>
+        <item name="SouthamptonClubName">Southampton</item>
+        <item name="StokeCityClubName">Stoke City</item>
+        <item name="SwanseaCityClubName">Swansea City</item>
+        <item name="TottenhamHotspurClubName">Tottemham Hotspurs</item>
+        <item name="WatfordClubName">Watford</item>
+        <item name="WestBromwichAlbionClubName">West Brom</item>
+        <item name="WestHamUnitedClubName">West Ham</item>
+    </array>
+
+
+    <!--
+  <item name="ArsnealClubName">Arsenal</item>
+  <item name="BournemouthClubName">Bournemouth</item>
+  <item name="BrightonClubName">Brighton</item>
+  <item name="BurnleyClubName">Burnley</item>
+  <item name="ChelseaClubName">Chelsea</item>
+  <item name="CrystalPalaceClubName">Crystal Palace</item>
+  <item name="EvertonClubName">Everton</item>
+  <item name="HuddersfieldTownClubName">Huddersfield</item>
+  <item name="LeicesterCityClubName">Leicester City</item>
+  <item name="LiverpoolClubName">Liverpool</item>
+  <item name="ManchesterCityClubName">Manchester City</item>
+  <item name="ManchesterUnitedClubName">Manchester United</item>
+  <item name="NewcastleUnitedClubName">Newcastle United</item>
+  <item name="SouthamptonClubName">Southampton</item>
+  <item name="StokeCityClubName">Stoke City</item>
+  <item name="SwanseaCityClubName">Swansea City</item>
+  <item name="TottenhamHotspurClubName">Tottemham Hotspur</item>
+  <item name="WatfordClubName">Watford</item>
+  <item name="WestBromwichAlbionClubName">West Brom</item>
+  <item name="WestHamUnitedClubName">West Ham</item>
+
+
+
+  <array name="PremierLeagueStadiumNames"/>
+  <item name="ArsnealStadiumName">Emirates Stadium</item>
+  <item name="BournemouthStadiumName">Vitality Stadium</item>
+  <item name="BrightonStadiumName">American Express Stadium</item>
+  <item name="BurnleyStadiumName">Turf Moor</item>
+  <item name="ChelseaStadiumName">Stamford Bridge</item>
+  <item name="CrystalPalaceStadiumName">Selhurst Park</item>
+  <item name="EvertonStadiumName">Goodison Park</item>
+  <item name="HuddersfieldTownStadiumName">John Smith's Stadium</item>
+  <item name="LeicesterCityStadiumName">King Power Stadium</item>
+  <item name="LiverpoolStadiumName">Anfield</item>
+  <item name="ManchesterCityStadiumName">Etihad Stadium</item>
+  <item name="ManchesterUnitedStadiumName">Old Trafford</item>
+  <item name="NewcastleUnitedStadiumName">St James Park</item>
+  <item name="SouthamptonStadiumName">St Mary's Stadium</item>
+  <item name="StokeCityStadiumName">bet365 Stadium</item>
+  <item name="SwanseaCityStadiumName">Liberty Stadium</item>
+  <item name="TottenhamHotspurStadiumName">Wembley Stadium</item>
+  <item name="WatfordStadiumName">Vicarage Road</item>
+  <item name="WestBromwichAlbionStadiumName">The HawThorns</item>
+  <item name="WestHamUnitedStadiumName">London Stadium</item>
+
+
+  <array name="PremierLeaguesTeamHistory"/>
+  <item name="ArsnealHistory"></item>
+  <item name="BournemouthHistory"> </item>
+  <item name="BrightonHistory">  </item>
+  <item name="BurnleyHistory"> </item>
+  <item name="ChelseaHistory"> </item>
+  <item name="CrystalPalaceHistory"> </item>
+  <item name="EvertonHistory"> </item>
+  <item name="HuddersfieldTownHistory"> </item>
+  <item name="LeicesterCityHistory"></item>
+  <item name="LiverpoolHistory"></item>
+  <item name="ManchesterCityHistory"> </item>
+  <item name="ManchesterUnitedHistory"> </item>
+  <item name="NewcastleUnitedHistory">  </item>
+  <item name="SouthamptonHistory">  </item>
+  <item name="StokeCityHistory"> </item>
+  <item name="SwanseaCityHistory"> </item>
+  <item name="TottenhamHotspurHistory"> </item>
+  <item name="WatfordHistory"> </item>
+  <item name="WestBromwichAlbionHistory"> </item>
+  <item name="WestHamUnitedHistory"> </item>
+
+
+  <array name="PremierLeagueTeamManagers"/>
+  <item name="ArsnealManager">Arsene Wenger</item>
+  <item name="BournemouthManager">Eddie Howe</item>
+  <item name="BrightonManager">Chris Hughton</item>
+  <item name="BurnleyManager">Sean Dyche</item>
+  <item name="ChelseaManager">Antonio Conte</item>
+  <item name="CrystalPalaceManager">Roy Hodgson</item>
+  <item name="EvertonManager">Sam Allardyce</item>
+  <item name="HuddersfieldTownManager">David Wagner</item>
+  <item name="LeicesterCityManager">Claude Puel</item>
+  <item name="LiverpoolManager">Jurgen Klopp</item>
+  <item name="ManchesterCityManager">Pep Guardiola</item>
+  <item name="ManchesterUnitedManager">Jose Mourinho</item>
+  <item name="NewcastleUnitedManager">Rafael Benitez</item>
+  <item name="SouthamptonManager">Mauricio Pellegrino</item>
+  <item name="StokeCityManager">Paul Lambert</item>
+  <item name="SwanseaCityManager">Carlos Carvalhal</item>
+  <item name="TottenhamHotspurManager">Mauricio Pochettino</item>
+  <item name="WatfordManager">Javi Gracia</item>
+  <item name="WestBromwichAlbionManager">Alan Pardew</item>
+  <item name="WestHamUnitedManager">David Moyes</item>
+
+
+  <array name="PremierLeagueStadiumCapacity"/>
+  <item name="ArsnealStadiumCapacity">56987</item>
+  <item name="BournemouthStadiumCapacity">11360</item>
+  <item name="BrightonStadiumCapacity">30750</item>
+  <item name="BurnleyStadiumCapacity">21944</item>
+  <item name="ChelseaStadiumCapacity">41631</item>
+  <item name="CrystalPalaceStadiumCapacity">26309</item>
+  <item name="EvertonStadiumCapacity">39572</item>
+  <item name="HuddersfieldTownStadiumCapacity">24500</item>
+  <item name="LeicesterCityStadiumCapacity">32312</item>
+  <item name="LiverpoolStadiumCapacity">54074</item>
+  <item name="ManchesterCityStadiumCapacity">55097</item>
+  <item name="ManchesterUnitedStadiumCapacity">74994</item>
+  <item name="NewcastleUnitedStadiumCapacity">52354</item>
+  <item name="SouthamptonStadiumCapacity">32505</item>
+  <item name="StokeCityStadiumCapacity">30089</item>
+  <item name="SwanseaCityStadiumCapacity">21088</item>
+  <item name="TottenhamHotspurStadiumCapacity">61559</item>
+  <item name="WatfordStadiumCapacity">21577</item>
+  <item name="WestBromwichAlbionStadiumCapacity">26688</item>
+  <item name="WestHamUnitedStadiumCapacity">57000</item>
+
+
+  <array name="PremierLeagueStadiumLocation"/>
+  <item name="ArsnealStadiumLocation">N5 1BU</item>
+  <item name="BournemouthStadiumLocation">BH7 7AF</item>
+  <item name="BrightonStadiumLocation">BN1 9BL</item>
+  <item name="BurnleyStadiumLocation">B10 4BX</item>
+  <item name="Chelsea">SW6 1HS</item>
+  <item name="CrystalPalaceStadiumLocation">SE25 6PU</item>
+  <item name="EvertonStadiumLocation">L4 4EL</item>
+  <item name="HuddersfieldTownStadiumLocation">HD1 6PX</item>
+  <item name="LeicesterCityStadiumLocation">LE2 7FL</item>
+  <item name="LiverpoolStadiumLocation">L4 0TH</item>
+  <item name="ManchesterCityStadiumLocation">M11 3FF</item>
+  <item name="ManchesterUnitedStadiumLocation">M16 0RA</item>
+  <item name="NewcastleUnitedStadiumLocation">NE1 4ST</item>
+  <item name="SouthamptonStadiumLocation">SO14 5FP</item>
+  <item name="StokeCityStadiumLocation">ST4 4EG</item>
+  <item name="SwanseaCityStadiumLocation">SA1 2FA</item>
+  <item name="TottenhamHotspurStadiumLocation">N17 0AP</item>
+  <item name="WatfordStadiumLocation">WD18 0ER</item>
+  <item name="WestBromwichAlbionStadiumLocation">B71 4LF</item>
+  <item name="WestHamUnitedStadiumLocation">E20 2ST</item>
+
+    -->
+
+
+</resources>

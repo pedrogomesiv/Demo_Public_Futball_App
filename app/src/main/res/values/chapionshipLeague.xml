@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EFLC">
+        <item>Aston Villa</item>
+        <item>Barnsley</item>
+        <item>Birmingham City</item>
+        <item>Bolton Wanderers</item>
+        <item>Brentford</item>
+        <item>Bristol City</item>
+        <item>Burton Albion</item>
+        <item>Cardiff City</item>
+        <item>Derby County</item>
+        <item>Fulham</item>
+        <item>Hull City</item>
+        <item>Ipswich Town</item>
+        <item>Leeds United</item>
+        <item>Middlesbrough</item>
+        <item>Millwall</item>
+        <item>Norwich City</item>
+        <item>Nottingham Forest</item>
+        <item>Preston North End</item>
+        <item>Queens Park Rangers</item>
+        <item>Reading</item>
+        <item>Sheffield United</item>
+        <item>Sheffield Wednesday</item>
+        <item>Sunderland</item>
+        <item>Wolverhampton Wanderers</item>
+    </string-array>
+</resources>

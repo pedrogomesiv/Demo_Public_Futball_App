@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EFL1">
+        <item>AFC Wimbledon</item>
+        <item>Blackburn Rovers</item>
+        <item>Blackpool</item>
+        <item>Bradford City</item>
+        <item>Bristol Rovers</item>
+        <item>Bury</item>
+        <item>Charlton Athletic</item>
+        <item>Doncaster Rovers</item>
+        <item>Fleetwood Town</item>
+        <item>Gillingham</item>
+        <item>MK Dons</item>
+        <item>Northampton Town</item>
+        <item>Oldham Athletic</item>
+        <item>Oxford United</item>
+        <item>Peterborough United</item>
+        <item>Plymouth Argyle</item>
+        <item>Portsmouth</item>
+        <item>Rochdale</item>
+        <item>Rotherham United</item>
+        <item>Scunthorpe United</item>
+        <item>Shrewsbury Town</item>
+        <item>Southend United</item>
+        <item>Walsall</item>
+        <item>Wigan Athletic</item>
+    </string-array>
+</resources>

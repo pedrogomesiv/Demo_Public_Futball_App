@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:id="@+id/home" android:icon="@mipmap/ic_exit_to_app_black_18dp"/>
+    <item android:title="Stadium" android:id="@+id/stad" android:icon="@mipmap/ic_event_seat_black_24dp" />
+    <item android:title="Score" android:id="@+id/scores" android:icon="@mipmap/ic_trending_up_black_24dp"  />
+    <item android:title="Map" android:id="@+id/maps" android:icon="@mipmap/ic_location_on_black_24dp" />
+    <item android:title="Achievements" android:id="@+id/achievements" android:icon="@mipmap/ic_star_rate_black_18dp" />
+    <item android:title="Settings" android:id="@+id/settings" android:icon="@drawable/ic_build_black_24dp"/>
+    <item android:title="Help" android:id="@+id/help" android:icon="@mipmap/ic_help_black_24dp" />
+    <item android:title="Exit" android:id="@+id/exit" android:icon="@mipmap/ic_exit_to_app_black_18dp"/>
+</menu>
